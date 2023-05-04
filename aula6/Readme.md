@@ -1,0 +1,1 @@
+Código de cadastro, gerador de lista.
